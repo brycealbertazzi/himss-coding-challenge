@@ -8,7 +8,7 @@
         "referenceId": "6706b3ba-bf36-4ad4-9b9d-4ebf4f4e2429",
         "referenceType": "REPORT"
       },
-      "state": "CLOSED",
+      "state": "OPEN",
       "payload": {
         "source": "REPORT",
         "reportType": "SPAM",
@@ -68,7 +68,7 @@
         "referenceId": "7b4cf776-49d5-4c24-8837-153fc34d6d2c",
         "referenceType": "REPORT"
       },
-      "state": "CLOSED",
+      "state": "OPEN",
       "payload": {
         "source": "REPORT",
         "reportType": "SPAM",
