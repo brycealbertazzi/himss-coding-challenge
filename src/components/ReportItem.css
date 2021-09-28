@@ -1,0 +1,26 @@
+.report-item {
+    display: flex;
+    flex-direction: row;
+    margin: 3px;
+    padding: 3px;
+    border-bottom: 1px dashed black;
+    border: solid 1px black;
+}
+
+.report-col {
+    flex: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    text-align: left;
+}
+
+.button {
+    margin: 4px;
+}
+

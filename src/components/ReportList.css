@@ -1,0 +1,7 @@
+.report-list {
+    margin: 15px 5% 15px 5%;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+}
